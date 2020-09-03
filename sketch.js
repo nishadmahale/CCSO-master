@@ -4,7 +4,7 @@ var speed,weight;
 
 
 
-car.velocityX=speed;
+
 
 function setup () {
 
