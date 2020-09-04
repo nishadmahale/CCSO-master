@@ -1,11 +1,6 @@
 var car,wall;
 var speed,weight;
 
-
-
-
-
-
 function setup () {
 
     car=createSprite(50,200,50,50);
