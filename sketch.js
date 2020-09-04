@@ -8,8 +8,10 @@ function setup () {
     
     
     speed=random(55,90);
-    weight=random(400,1500);
     car.velocityX=speed;
+    
+    weight=random(400,1500);
+    
     createCanvas(1600,800);
 
 
