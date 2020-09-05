@@ -23,7 +23,7 @@ function setup () {
 
 
 function draw(){
-     background("black"):
+     background("black");
      car.shapeColour="pink";
     
     if(wall.x-car.x<(car.width+wall.width)/2) {
